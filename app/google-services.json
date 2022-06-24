@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236263066586",
+    "project_id": "example-firestore-hilt",
+    "storage_bucket": "example-firestore-hilt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236263066586:android:5001477170dc96009e8ee3",
+        "android_client_info": {
+          "package_name": "com.webskitters.client.example_firestore_hilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236263066586-pqcgub23g83q4cka3b9esf5g7nf52o98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgq-sdZL-qipBb1QCPbPmXQq62E0dbpZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236263066586-pqcgub23g83q4cka3b9esf5g7nf52o98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
